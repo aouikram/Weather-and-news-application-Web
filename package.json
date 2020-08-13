@@ -2,6 +2,10 @@
     "name": "node-red-app",
     "version": "1.1.1",
     "dependencies": {
+	    "node-red-contrib-web-worldmap": "2.4.2",
+	    "node-red-node-ui-table": "0.3.4",
+	    "node-red-node-openweathermap": "0.3.1",
+	    "node-red-dashboard": "2.23.2",
         "@cloudant/cloudant": "^4.2.2",
         "bcrypt": "^3.0.7",
         "body-parser": "1.x",
