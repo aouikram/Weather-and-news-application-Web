@@ -4,8 +4,12 @@ Node-RED web application deployed on the IBM Cloud
 
 ### Node-RED on IBM Cloud
 
-This repository a weather and news Node-RED application deployed into IBM Cloud 
+This repository is a weather and news Node-RED application deployed on the IBM Cloud  
+The news section of our web application has dynamic and up-to-date data for cryptocurrency with all the information
+that we may need.  
+A COVID19 tab is also part of the news section.
 
+The first dashboard is a weather interface that allows the user to easily access all the weather information in the world. it uses the openweather and darksky services as a data source.  
 
 ![Weather](https://user-images.githubusercontent.com/57714966/146266901-566fce72-07aa-49c1-a788-9dc89bf9f842.PNG)  
 
